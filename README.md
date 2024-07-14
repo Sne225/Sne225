@@ -6,10 +6,10 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sinethemba-gomba-747bb11a1/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play Apex legends and my K/D is closer to 1 (yes I get whooped sometimes)
+##
 
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sne225&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sne225&show_icons=true&theme=dark)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sne225&layout=compact)
 
 
