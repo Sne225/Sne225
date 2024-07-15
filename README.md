@@ -10,6 +10,6 @@
 
   
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sne225&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sne225&layout=compact)
 
 
