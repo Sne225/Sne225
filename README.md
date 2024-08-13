@@ -1,6 +1,6 @@
 
 ### Sinethemba Gomba
-- 🔭 I’m currently working on getting more green boxes
+- 🔭 I’m currently pursuing my honours in information systems
 - 🌱 I’m currently learning full stack mobile and web development
 - 👯 I’m looking to collaborate on open-source projects related to software development
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sinethemba-gomba-747bb11a1/)
