@@ -1,10 +1,9 @@
 
 ## Sinethemba Gomba
 - 🔭 I’m currently pursuing my honours in information systems
-- 🌱 I’m currently learning full stack mobile and web development
+- 🌱 I’m currently learning full stack mobile, web development and data engineering
 - 👯 I’m looking to collaborate on open-source projects related to software development
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sinethemba-gomba-747bb11a1/)
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him/Destroyer of Worlds/Kratos
 - ⚡ Fun fact: I play Apex legends on my spare time and my KD is closer to 1 (yes I get whooped sometimes)
 ###
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sinethemba-gomba-747bb11a1/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23260857) 
