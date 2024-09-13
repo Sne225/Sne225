@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning full stack mobile, web development and data engineering
 - 👯 I’m looking to collaborate on open-source projects related to software development
 - 😄 Pronouns: He/Him/Destroyer of Worlds/Kratos
-- ⚡ Fun fact: I play Apex legends on my spare time and my KD is closer to 1 (yes I get whooped sometimes)
+- ⚡ Awesome fact: I am on level 102 on Apex Legends 😎
 ###
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sinethemba-gomba-747bb11a1/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23260857) 
 
