@@ -1,10 +1,10 @@
 
 ## Sinethemba Gomba
-- 🔭 I’m currently pursuing my honours in information systems
-- 🌱 I’m currently learning full stack mobile, web development and data engineering
+- 🔭 I'm currently a Data Engineer
+- 🌱 I’m currently involved in full stack mobile, web development and data engineering
 - 👯 I’m looking to collaborate on open-source projects related to software development
 - 😄 Pronouns: He/Him/Destroyer of Worlds/Kratos
-- ⚡ Awesome fact: I am on level 102 on Apex Legends 😎
+- ⚡ Awesome fact: I am on level 125 on Apex Legends 😎
 ###
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sinethemba-gomba-747bb11a1/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23260857) 
 
