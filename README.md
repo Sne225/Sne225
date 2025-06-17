@@ -1,8 +1,8 @@
 
 ## Sinethemba Gomba
 - 🔭 I'm currently a Data Engineer
-- 🌱 I’m currently involved in full stack mobile, web development and data engineering
-- 👯 I’m looking to collaborate on open-source projects related to software development
+- 🌱 I’m involved in full stack web development and data engineering
+- 👯 I’m looking to collaborate on open-source projects related to the domain of technology
 - 😄 Pronouns: He/Him/Destroyer of Worlds/Kratos
 - ⚡ Awesome fact: I am on level 125 on Apex Legends 😎
 ###
