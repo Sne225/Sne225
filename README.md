@@ -1,10 +1,9 @@
 
 ## Sinethemba Gomba
 - 🔭 I'm currently a Data Engineer
-- 🌱 I’m involved in full stack web development and data engineering
+- 🌱 I’m involved in full data engineering and natural language processing
 - 👯 I’m looking to collaborate on open-source projects related to the domain of technology
-- 😄 Pronouns: He/Him/Destroyer of Worlds/Kratos
-- ⚡ Awesome fact: I dabble on Apex Legends and COD on my spare time😎
+  
 ###
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sinethemba-gomba-747bb11a1/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23260857) 
 
